@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/cCyHD3X/1-color-saturado.png"  />
+<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F8HaTOA3o0OoAAAAi%2Fpixel-cat.gif&f=1&nofb=1&ipt=70b99d9d2485b381fc65bec62248f86754a9818a35fd767b7bf5e458f85b3a5d&ipo=images"  />
 
 ###
 
