@@ -3,11 +3,43 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayelus5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayelus5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
+for freelance work? visit [my website](https://rayelus.com) :)
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+Study        9 hrs 58 mins   ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛   59.09 %
+Photoshop    4 hrs 42 mins   ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛   27.86 %
+Discord      2 hrs 12 mins   ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛   13.05 %
+```
+
+<!--END_SECTION:waka-->
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  8,004 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 125 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rayelus5&show_icons=true&theme=gotham" alt="rayelus" />
+
+
+
+
 
 <br>
 <img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F8HaTOA3o0OoAAAAi%2Fpixel-cat.gif&f=1&nofb=1&ipt=70b99d9d2485b381fc65bec62248f86754a9818a35fd767b7bf5e458f85b3a5d&ipo=images"  />
