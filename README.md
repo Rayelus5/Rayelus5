@@ -13,10 +13,10 @@ for freelance work? visit [my website](https://rayelus.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-Study        12 hrs   🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛   60 %
+Study        10 hrs   🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛   50 %
 Photoshop    3 hrs    🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛   15 %
 Discord      1 hrs    🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛    5 %
-Gaming       4 hrs    🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛   20 %
+Gaming       6 hrs    🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛   30 %
 ```
 
 <!--END_SECTION:waka-->
