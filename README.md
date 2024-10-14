@@ -9,7 +9,7 @@
 ###
 for freelance work? visit [my website](https://rayelus.com) :)
 
-📊 **this week i spent my time on:**
+📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
