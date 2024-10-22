@@ -1,4 +1,4 @@
-<h2 align="left">Hi everyone 👋<br>My name is Ray and I'm a Web Developer and Graphic Designer, from Spain.</h2>
+<h2 align="left">Hi everyone 👋<br>My name is Ray and I'm a Web Developer and Graphic Designer, from Seville (Spain).</h2>
 
 ###
 
