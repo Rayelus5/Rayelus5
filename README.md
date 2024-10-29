@@ -7,7 +7,12 @@
 </div>
 
 ###
-for freelance work? visit [my website](https://rayelus.com) :)
+
+
+> [!NOTE]
+> For freelance work? visit [my website](https://rayelus.com) ❤
+
+<hr>
 
 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -25,6 +30,8 @@ Gaming       4 hrs    🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛   20 %
 
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>-->
 
+<hr>
+
 🚧 **My todoist stats:**
 <!-- TODO-IST:START -->
 🏆  19,571 Karma Points           
@@ -33,12 +40,11 @@ Gaming       4 hrs    🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛   20 %
 ⏳  Longest streak is 14 days
 <!-- TODO-IST:END -->
 
+<hr>
 
 📈 **My github stats:**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rayelus5&show_icons=true&theme=gotham" alt="rayelus" />
-
-
 
 
 
