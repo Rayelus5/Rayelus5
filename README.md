@@ -13,10 +13,10 @@ for freelance work? visit [my website](https://rayelus.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-Study        10 hrs   🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛   50 %
-Photoshop    3 hrs    🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛   15 %
+Study        13 hrs   🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛   65 %
+Photoshop    2 hrs    🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛   10 %
 Discord      1 hrs    🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛    5 %
-Gaming       6 hrs    🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛   30 %
+Gaming       4 hrs    🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛   20 %
 ```
 
 <!--END_SECTION:waka-->
@@ -28,8 +28,8 @@ Gaming       6 hrs    🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛   30 %
 🚧 **My todoist stats:**
 <!-- TODO-IST:START -->
 🏆  19,571 Karma Points           
-🌸  Completed 17 tasks today           
-✅  Completed 286 tasks so far           
+🌸  Completed 19 tasks today           
+✅  Completed 257 tasks so far           
 ⏳  Longest streak is 14 days
 <!-- TODO-IST:END -->
 
