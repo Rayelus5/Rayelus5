@@ -1,0 +1,18 @@
+name: Todoist Readme Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Se ejecuta cada 12 horas
+    - cron: '0 */12 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Actualizar Todoist Stats
+        uses: JasonEtco/todoist-readme@v3
+        with:
+          # Debe coincidir con el nombre del Secret que creaste en el paso 2
+          TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
