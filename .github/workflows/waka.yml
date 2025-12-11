@@ -12,8 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      # Usamos el SHA de commit para la versión 5, que es extremadamente estable:
-      - uses: anmol098/waka-readme-stats@a0280f331f93f631988892d3f2400b6528d22744
+      - uses: anmol098/waka-readme-stats@v5
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
