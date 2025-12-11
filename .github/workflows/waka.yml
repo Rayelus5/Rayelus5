@@ -1,0 +1,22 @@
+name: WakaTime Readme Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Se ejecuta cada 24 horas (ajusta la hora si lo deseas)
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: Actualizar WakaTime en README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: anmol098/waka-readme-stats@v6
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Puedes personalizar más opciones aquí si lo deseas
+          SECTION_NAME: waka
+          # Los commits se realizarán como el bot de GitHub
+          COMMIT_BY_ME: "true"
