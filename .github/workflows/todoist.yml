@@ -12,7 +12,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Actualizar Todoist Stats
-        uses: JasonEtco/todoist-readme@v3
+        # Usamos este fork que actualmente está mantenido por la comunidad
+        uses: t-richards/todoist-readme@v1
         with:
           # Debe coincidir con el nombre del Secret que creaste en el paso 2
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
+          # Puedes personalizar el formato si lo deseas
+          TEXT_TO_REPLACE: "\\n"
+          MARKDOWN_TEXT: |
+            🏆 **{total_karma_points}** Karma Points
+            🌸 **{completed_tasks_today}** tareas completadas hoy
+            ✅ **{completed_tasks}** tareas completadas en total
+            ⏳ Racha más larga de **{longest_streak}** días
