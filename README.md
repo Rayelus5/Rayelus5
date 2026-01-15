@@ -1,94 +1,57 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpuc25oNTRuYjBtdm1pcnZzd3AwaXh4cG1oMnpnZ2pwa2s1OGJzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiWN1ezDGhzK/giphy.gif" width="40" />
-  <h1>¡Hola! Soy Ray, Desarrollador Web y Diseñador Gráfico de Sevilla (ESPAÑA)</h1>
-</div>
+# Hola, soy Ray 👋
 
-<p align="center">
-  Explorando el mundo del código y el diseño, construyendo experiencias digitales atractivas y funcionales.
+### Full Stack Developer & Graphic Designer | Sevilla, España
+
+Me dedico a crear soluciones digitales a problemas reales. Puedes encontrar más sobre mí y mis proyectos en mi [**Portafolio Oficial**](https://rayelus.com) 
+
+- **Perfil:** Tengo 19 años (nací el 28 de agosto).
+- **Intereses:** Informática, nuevas tecnologías y desarrollo web.
+- **Hobbies:** Videojuegos de todo tipo y música electrónica.
+
+## Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías | URL |
+| :--- | :--- | :--- | :--- |
+| **Pollnow** | Breve descripción de la solución que aporta este proyecto. | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/NEXT.js-000000?style=flat-square&logo=nextjs&logoColor=white" alt="NEXT.js" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-279FF5?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /> | [**Repo**](https://github.com/rayelus5/pollnow) - [**Visitar**](https://pollnow.es) |
+| **Chaotic Loom** | Creador y diseñador del Frontend de la web | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/NEXT.js-000000?style=flat-square&logo=nextjs&logoColor=white" alt="NEXT.js" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-279FF5?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /> | [**Repo**](https://rayelus.com) - [**Visitar**](https://chaotic-loom.com) |
+
+> [!IMPORTANT]
+> Gran parte de mi desarrollo profesional se centra en **repositorios privados** y entornos corporativos bajo **acuerdos de confidencialidad**. No obstante, estoy expandiendo mi presencia en la comunidad **Open Source**, compartiendo herramientas y proyectos que reflejen mi evolución técnica actual.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
-## 🚀 ¿Qué Hago?
 
-* Desarrollo *Frontend* con un enfoque en la **experiencia de usuario (UX)** y la accesibilidad.
-* Diseño gráfico y de interfaces para proyectos personales y *freelance*.
+## Conecta conmigo
 
-> [!NOTE]
-> **¿Interesado en trabajar juntos?**
->
-> Para trabajos *freelance* o proyectos, visita mi sitio web: **[rayelus.com](https://rayelus.com)** ❤️
+<p align="left">
+  <a href="https://www.linkedin.com/in/rayelus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://rayelus.com"><img src="https://img.shields.io/badge/Website-EE3939?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="mailto:tu-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
----
+<br />
 
-## 🛠️ Tecnologías y Herramientas
+> [!TIP]
+> **Enfoque actual:** Estoy abierto a colaboraciones en proyectos de código abierto y oportunidades de diseño/desarrollo freelance.
 
-Mi *stack* principal incluye:
 
-<br>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-</div>
-
-<br>
-
----
-
-## 📊 Mi Actividad y Estadísticas
+## Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayelus5&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayelus5&locale=en&layout=compact&langs_count=5&theme=gotham&hide_border=true" alt="Lenguajes Principales" />
-</div>
-
-<br>
-
-### ⏱️ Lo que hice esta semana (WakaTime)
-
-📊 **This week i spent my time on:**
-```txt
-Study        13 hrs   🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛   65 %
-Photoshop    2 hrs    🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛   10 %
-Gaming       4 hrs    🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛   20 %
-Discord      1 hrs    🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛    5 %
-```
-
-### ✅ Mis Tareas Pendientes (Todoist)
-
-🚧 **My todoist stats:**
-🏆  **19,571** Karma Points           
-🌸  **19** tareas completadas hoy           
-✅  **257** tareas completadas en total           
-⏳  Racha más larga de **14** días
-<br>
-
------
-
-## 🌐 Conéctate Conmigo
-
-<div align="center">
-  <a href="https://www.instagram.com/rayelus.es"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="https://discord.com/users/699293678354825217"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="https://rayelus.com/portfolio/index.html#contact"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/rayelus/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <br>
-  <p align="center">
-  <img height="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F8HaTOA3o0OoAAAAi%2Fpixel-cat.gif\&f=1\&nofb=1\&ipt=70b99d9d2485b381fc65bec62248f86754a9818a35fd767b7bf5e458f85b3a5d\&ipo=images" alt="Gato Pixelado" >
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rayelus5&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayelus5&locale=en&layout=compact&langs_count=5&theme=transparent&hide_border=true&title_color=0077B5" width="45%" />
 </div>
