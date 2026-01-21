@@ -28,7 +28,7 @@ Me dedico a crear soluciones digitales a problemas reales. Puedes encontrar más
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rayelus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://rayelus.com"><img src="https://img.shields.io/badge/Portfolio-EE3939?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://dev.rayelus.com"><img src="https://img.shields.io/badge/Portfolio-EE3939?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="mailto:rayelus@proton.me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
