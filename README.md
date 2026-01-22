@@ -19,12 +19,6 @@ Me dedico a crear soluciones digitales a problemas reales. Puedes encontrar más
 | **Arandor** | Fundador, un juego RPG clásico de terminal | HTML, CSS, JavaScript | [**Visitar**](https://arandor.es) |
 | **TCG Shop Finder** | CEO, busca tiendas de TCG en España. | React TS, Next.js, Tailwind CSS, Prisma, PostgreSQL | [**Visitar**](https://tcgshopfinder.es) |
 
-> [!IMPORTANT]
-> Gran parte de mi desarrollo profesional se centra en **repositorios privados** y entornos corporativos bajo **acuerdos de confidencialidad**. No obstante, estoy expandiendo mi presencia en la comunidad **Open Source**, compartiendo herramientas y proyectos que reflejen mi evolución técnica actual.
-
-
-> [!TIP]
-> **Enfoque actual:** Estoy abierto a colaboraciones en proyectos de código abierto/privado y oportunidades de diseño/desarrollo web freelance.
 
 ## Contacta conmigo
 
@@ -33,6 +27,12 @@ Me dedico a crear soluciones digitales a problemas reales. Puedes encontrar más
   <a href="https://dev.rayelus.com"><img src="https://img.shields.io/badge/Portfolio-EE3939?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="mailto:rayelus@proton.me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+> [!IMPORTANT]
+> Gran parte de mi desarrollo profesional se centra en **repositorios privados** y entornos corporativos bajo **acuerdos de confidencialidad**. No obstante, estoy expandiendo mi presencia en la comunidad **Open Source**, compartiendo herramientas y proyectos que reflejen mi evolución técnica actual.
+
+> [!TIP]
+> **Enfoque actual:** Estoy abierto a colaboraciones en proyectos de código abierto/privado y oportunidades de diseño/desarrollo web freelance.
 
 ## Tecnologías y Herramientas que uso
 
