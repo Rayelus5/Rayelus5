@@ -1,3 +1,5 @@
+<img width="1400" height="349" alt="linkedinrayelusbanner" src="https://github.com/user-attachments/assets/25f6f43a-8a03-47f4-96a0-83a81965b5bd" />
+
 # Hola, soy Ray 👋
 
 ### Full Stack Developer & Graphic Designer | Sevilla, España
