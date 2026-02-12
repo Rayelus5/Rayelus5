@@ -19,14 +19,13 @@ Me dedico a crear soluciones digitales a problemas reales. Puedes encontrar más
 | **Arandor** | Fundador, un juego RPG clásico de terminal | HTML, CSS, JavaScript | [**Visitar**](https://arandor.es) |
 | **TCG Shop Finder** | CEO, busca tiendas de TCG en España. | React TS, Next.js, Tailwind CSS, Prisma, PostgreSQL | [**Visitar**](https://tcgshopfinder.es) |
 
+<div align="center">
 
-## Contacta conmigo
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :---: |
+| <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=¡Contacta+conmigo!;%C2%BFHablamos%3F;Collaborate+with+me;rayelus@proton.me" alt="Typing SVG" /></a> <br><br> <a href="https://www.linkedin.com/in/rayelus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; <a href="https://dev.rayelus.com"><img src="https://img.shields.io/badge/Portfolio-EE3939?style=for-the-badge&logo=firefox&logoColor=white" /></a> &nbsp; <a href="mailto:rayelus@proton.me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <br><br> |
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rayelus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://dev.rayelus.com"><img src="https://img.shields.io/badge/Portfolio-EE3939?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="mailto:rayelus@proton.me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</div>
 
 > [!IMPORTANT]
 > Gran parte de mi desarrollo profesional se centra en **repositorios privados** y entornos corporativos bajo **acuerdos de confidencialidad**. No obstante, estoy expandiendo mi presencia en la comunidad **Open Source**, compartiendo herramientas y proyectos que reflejen mi evolución técnica actual.
